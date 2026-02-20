@@ -240,17 +240,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 # Launch Jupyter Notebook
 jupyter notebook
 
-## Key Takeaways
-Best Model: Logistic Regression achieves ~85% accuracy with ROC-AUC of 0.92
-
-Top Predictors: Number of vessels (ca), max heart rate (thalach), ST depression (oldpeak)
-
-Clinical Alignment: Model identifies medically recognized risk factors
-
-Balanced Performance: Good precision and recall across both classes
-
-Interpretable Results: Feature importance provides actionable insights
-
-Robust Model: Consistent cross-validation scores indicate reliability
-
-## Accuracy: ~85% | ROC-AUC: 0.92 | Top Predictor: Number of Major Vessels (ca)
+ 
