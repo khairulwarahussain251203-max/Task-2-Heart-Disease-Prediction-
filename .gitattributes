@@ -1,3 +1,4 @@
+# Force everything to be seen as a notebook
+* [-]linguist-language=Jupyter-Notebook
 *.ipynb linguist-detectable=true
 *.py linguist-detectable=false
-# Fix language statistics
