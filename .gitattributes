@@ -1,0 +1,3 @@
+# Fix Language Statistics
+*.ipynb linguist-detectable=true
+*.py linguist-detectable=false
