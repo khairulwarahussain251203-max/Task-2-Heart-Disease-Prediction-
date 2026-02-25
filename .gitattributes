@@ -1,5 +1,1 @@
-*.ipynb linguist-detectable=true
-*.py linguist-detectable=false
-*.csv linguist-generated=true
-*.csv linguist-documentation=true
 # Force GitHub to prioritize the Notebooks
